@@ -1,0 +1,219 @@
+Source: data base team Organization & Culture
+---
+Question (ID: 1): Welche Weiterbildungsangebote kann ich bei REWE digital nutzen?
+Answer: 
+Es gibt mehrere verfügbare Angebote:
+- **IT Learning Hub:** Eine digitale Lernplattform, die vielfältige IT-spezifische Trainings anbietet.
+- **Lernen.Katalog:** Der REWE Group Trainingskatalog bietet eine Auswahl an Weiterbildungen und Trainings sowohl online als auch vor Ort.
+Bei weiteren Fragen kannst du dich an das Organization & Culture Team wenden.
+Relevant Links:
+- https://rewe-digital.lxp-haufe.de/
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?id=%2Fsites%2Ftr%2D0001%2FD1010%2FREWE%5FSeminarkatalog%5Ffinal%2Epdf&parent=%2Fsites%2Ftr%2D0001%2FD1010
+---
+Question (ID: 2): Wer kann mich bei der Auswahl des richtigen Weiterbildungsangebotes beraten?
+Answer: 
+Für Beratung und Unterstützung:
+- **Führungskraft oder HR Partner:in:** Im ersten Schritt kannst du auf deine Führungskraft oder deine:n HR Partner:in zugehen.
+- **Organization & Culture-Team:** Bei übergreifenden Anliegen kannst du das Organization & Culture-Postfach kontaktieren: organization-culture-digital@rewe-group.com.
+Relevant Links:
+- mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 3): Wie kann ich externe Weiterbildungen buchen, die nicht im Lernen.Katalog oder IT-Learning Hub stehen (z.B. Messen)?
+Answer: 
+Vorgehen und wichtige Hinweise:
+- **Abstimmung:** Externe Weiterbildungen, die mit Kosten verbunden sind, müssen mit der eigenen Führungskraft / People Coach oder HR Business Partner abgesprochen werden.
+- **Genehmigung:** Wenn die Maßnahme durch den/die Kostenstellenverantwortliche:n genehmigt wurde, folge dem Prozess.
+- **Prozess:** Details und weitere Schritte findest du auf der Confluence-Seite.
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=566708320
+---
+Question (ID: 4): Wie kann ich ein eigenes Lernangebot für REWE digital schaffen (Peer Learning)?
+Answer: 
+Vorgehen und Unterstützung:
+- **Plattform nutzen:** Das IT Learning Hub ist die richtige Plattform, um ein eigenes Lernangebot zu etablieren.
+- **Inhalte einstellen:** Über das „+“ Symbol kannst du selbstständig eigene Inhalte wie Veranstaltungen, Texte, Videos oder Audiodateien einstellen.
+- **Bewerbung:** Vergiss nicht, dein Angebot aktiv zu bewerben.
+- **Unterstützung:** Für Rückfragen steht das Postfach von Organization & Culture zur Verfügung.
+Relevant Links:
+- https://rewe-digital.lxp-haufe.de/
+- mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 5): Warum gibt es keinen Learning Canvas mehr?
+Answer: 
+Alle Lernangebote der REWE digital sind jetzt im IT Learning Hub zentralisiert. Dies schließt frühere Inhalte aus dem Learning Canvas und dem Lernen.Katalog der REWE Group ein. Diese Veränderung vereinfacht den Zugang zu Informationen und macht das Lernen barrierefreier und intuitiver. Für Rückfragen steht das Postfach von Organization & Culture zur Verfügung.
+Relevant Links:
+- https://rewe-digital.lxp-haufe.de/
+- mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 6): Nenne mir alle Weiterbildungsmöglichkeiten bei REWE zu einem Thema xy.
+Answer: 
+Verfahren zur Suche:
+- **Lernen.Katalog:** Schaue in der Themenübersicht der Datei nach oder suche gezielt nach Schlagworten.
+- **IT Learning Hub:** Nutze die Suchfunktion und gib das gewünschte Stichwort ein, um relevante interne und externe Angebote zu finden.
+Relevant Links:
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?id=%2Fsites%2Ftr%2D0001%2FD1010%2FREWE%5FSeminarkatalog%5Ffinal%2Epdf&parent=%2Fsites%2Ftr%2D0001%2FD1010
+---
+Question (ID: 7): Welche Weiterbildungsprogramme gibt es bei der REWE Group und der REWE digital?
+Answer: 
+Programme und Ressourcen:
+- **SHIFT:** Ein Berufseinstiegsprogramm bei REWE digital. Mehr Informationen auf Confluence.
+- **REWE Group Programme:** Details sind im internen Intranet und im Lernen.Katalog verfügbar.
+- **Unterstützung:** Für Rückfragen steht das Postfach von Organization & Culture zur Verfügung.
+Relevant Links:
+- SHIFT Programm: https://rdp.eil.risnet.de/display/HRRD/SHIFT
+- REWE Group Intranet: https://intranet.rewe-group.com/contentpage/blt721dbaa28f778c25
+- Lernen.Katalog: https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?id=%2Fsites%2Ftr%2D0001%2FD1010%2FREWE%5FSeminarkatalog%5Ffinal%2Epdf&parent=%2Fsites%2Ftr%2D0001%2FD1010
+- Kontakt: mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 8): Ich möchte gerne Mentorin werden. Welche Möglichkeiten gibt es?
+Answer: 
+Mentoring-Möglichkeiten bei der REWE Group:
+- **SHIFT Programm:** Begleite eine:n Berufseinsteiger:in im ersten Jahr.
+- **Joblinge Zusammenarbeit:** Unterstütze benachteiligte oder geflüchtete Jugendliche auf ihrem Weg in die Ausbildung.
+Bei Interesse melde dich bitte beim Team Organization & Culture.
+Relevant Links:
+- SHIFT Programm: https://rdp.eil.risnet.de/display/HRRD/SHIFT
+- Joblinge Mentorship: https://rdp.eil.risnet.de/pages/viewpage.action?pageId=643768408
+- Kontakt: mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 10): Ich möchte ein Coaching in Anspruch nehmen. Wer kann mir weiterhelfen?
+Answer: 
+Wenn du ein Coaching in Anspruch nehmen möchtest, kannst du dich an das Team Organization & Culture wenden. Sie stehen dir bei Fragen und zur Unterstützung zur Verfügung.
+Relevant Links:
+- mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 11): Welche Feedback-Formate haben wir bei REWE digital?
+Answer: 
+Informationen zu Feedback-Formaten und -Tools bei REWE digital findest du im Step Up Portal. Bei weiteren Fragen hilft das Team Organization & Culture.
+Relevant Links:
+- Step Up Portal (Feedback): https://risnet.sharepoint.com/sites/REWEGroupStepupPortal/SitePages/Feedback.aspx
+- Kontakt: mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 12): Wie läuft der Steps-Prozess ab?
+Answer: 
+Detaillierte Informationen und eine umfassende Übersicht über den Steps-Prozess und seine verschiedenen Schritte findest du im Step Up Portal.
+Relevant Links:
+- https://risnet.sharepoint.com/sites/REWEGroupStepupPortal/SitePages/Steps.aspx
+---
+Question (ID: 13): Welche Veranstaltungen gibt es bei REWE digital für Mitarbeitende?
+Answer: 
+Eine Übersicht über Veranstaltungen findest du auf Confluence. Weitere Events werden im REWE digital Newsletter angekündigt, der alle 2 Wochen donnerstags erscheint.
+Relevant Links:
+- Veranstaltungsübersicht: https://rdp.eil.risnet.de/pages/viewpage.action?pageId=546580322
+- Newsletter: https://rdp.eil.risnet.de/display/AI/REWE+digital+Newsletter
+---
+Question (ID: 14): An wen kann ich mich mit Fragen zu Change & Transformation wenden?
+Answer: 
+Bei Fragen zu Change & Transformation kannst du dich per Mail an das Team Organization & Culture wenden.
+Relevant Links:
+- mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 15): Was bedeutet NEO?
+Answer: 
+NEO ist ein umfassendes Entwicklungs- und Transformationsprojekt bei REWE digital. Detaillierte Informationen, Newsletter und ein Archiv findest du im NEO Info Hub auf Confluence. Erklärungen zu Abkürzungen gibt es im Tech-Wiki.
+Relevant Links:
+- NEO Newsletter Anmeldung: https://seu2.cleverreach.com/f/368852-377926/
+- NEO Info Hub: https://rdp.eil.risnet.de/display/NEOI/NEO+Info+Hub
+- Tech-Wiki: https://rdp.eil.risnet.de/display/AI/Tech-Wiki
+---
+Question (ID: 16): Was bedeutet Horizon?
+Answer: 
+Horizon war das Projekt des Zusammenschlusses der ehemaligen REWE digital und REWE Systems im Jahr 2022, um ihre Fähigkeiten für den stationären und Online-Handel zu bündeln.
+Relevant Links:
+- Horizon Projektseite: https://rdp.eil.risnet.de/display/AI/HORIZON
+- Tech-Wiki: https://rdp.eil.risnet.de/display/AI/Tech-Wiki
+---
+Question (ID: 17): Was bedeutet Symphony?
+Answer: 
+Symphony war ein Projekt, das die IT-Arbeit innerhalb der damaligen REWE Systems unterstützte.
+Relevant Links:
+- Symphony Projektseite: https://rdp.eil.risnet.de/display/RSNEU/Das+Projekt+Symphony
+- Tech-Wiki: https://rdp.eil.risnet.de/display/AI/Tech-Wiki
+---
+Question (ID: 18): Was bedeutet IT Next?
+Answer: 
+IT Next ist das Programm, in dem REWE digital und RIAG IT zusammenwachsen, um ihre Stärken zu bündeln. 2025 ist das Jahr der Planung und Konzeption. Andreas Bergenthal verantwortet die Umsetzung.
+Relevant Links:
+- Confluence: https://digital-mailings.rewe-group.com/c/107418305/6c308b1b2aa3-swnw72
+- Tech-Wiki: https://rdp.eil.risnet.de/display/AI/Tech-Wiki
+---
+Question (ID: 19): Was bedeutet Troy?
+Answer: 
+Troy ist ein IT-Projekt zur Kundenbindung bei REWE und PENNY. Es beinhaltet die Ablösung von Payback durch das REWE-eigene Loyalty-Programm „REWE Bonus“ und die Entwicklung eines eigenen Kundenbindungsprogramms in der REWE und Penny App.
+Relevant Links: [None]
+---
+Question (ID: 20): Was ist die Kultur der REWE digital?
+Answer: 
+REWE digital strebt eine vielfältige Arbeitskultur an, in der sich jede:r Mitarbeiter:in wohl fühlt. Mehr Informationen zu Kultur und Werten gibt es auf Confluence.
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=521525950
+---
+Question (ID: 21): Welche Haltung vertreten wir bei REWE digital?
+Answer: 
+Die Haltungsthemen bei REWE digital spiegeln die Werte und Prinzipien des Unternehmens wider. Eine Übersicht findest du auf Confluence.
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=595712689
+---
+Question (ID: 22): Wer kann mich zur internen Ausschreibung und Auswahlverfahren beraten?
+Answer: 
+Für Beratungen zu internen Ausschreibungen und Auswahlverfahren wende dich bitte an deine:n HR Partner:in oder das Recruiting Center. Eine Übersicht des HR Teams findest du auf Confluence.
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=684880670
+---
+Question (ID: 23): Wo finde ich den Lernen.Katalog?
+Answer: 
+Den Lernen.Katalog findest du auf SharePoint.
+Relevant Links:
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?id=%2Fsites%2Ftr%2D0001%2FD1010%2FREWE%5FSeminarkatalog%5Ffinal%2Epdf&parent=%2Fsites%2Ftr%2D0001%2FD1010
+---
+Question (ID: 24): Was ist Step Up?
+Answer: 
+Step Up ist ein Portal der REWE Group auf SharePoint, das Mitarbeitenden Ressourcen und Informationen zur persönlichen und beruflichen Weiterentwicklung bereitstellt.
+Relevant Links:
+- https://risnet.sharepoint.com/sites/REWEGroupStepupPortal/SitePages/Homepage.aspx
+---
+Question (ID: 25): Ich möchte meinen Steps Bogen zurücksetzen. An wen muss ich mich wenden?
+Answer: 
+Für das Zurücksetzen deines Steps Bogens bei REWE digital wende dich an das Team "Organization & Culture".
+Relevant Links:
+- mailto:organization-culture-digital@rewe-group.com
+---
+Question (ID: 26): Welche Angebote gibt es für Berufseinsteiger bei REWE digital?
+Answer: 
+REWE digital bietet das SHIFT Berufseinstiegsprogramm an, das Berufseinsteigern hilft, ihre Karriere zu starten. Mehr Infos dazu gibt es auf Confluence.
+Relevant Links:
+- https://rdp.eil.risnet.de/display/HRRD/SHIFT
+---
+Question (ID: 27): Wie kann ich mich bei SHIFT anmelden?
+Answer: 
+Die Anmeldung für das SHIFT-Programm läuft über deine Führungskraft. Diese klärt in Absprache mit deiner/deinem HR Partner:in, ob eine Teilnahme anhand der Kriterien möglich ist.
+Relevant Links:
+- SHIFT Info-Seite: https://rdp.eil.risnet.de/display/HRRD/SHIFT
+- HR Team Übersicht: https://rdp.eil.risnet.de/pages/viewpage.action?pageId=684880670
+---
+Question (ID: 28): Fragen zum Onboarding
+Answer: 
+Detaillierte Informationen zum Onboarding-Prozess bei REWE digital findest du auf Confluence. Bei weiteren Fragen kannst du dich an das Onboarding-Team wenden.
+Relevant Links:
+- Onboarding auf Confluence: https://rdp.eil.risnet.de/display/AI/Onboarding
+- Kontakt: mailto:onboarding-digital@rewe-group.com
+---
+Question (ID: 29): Wie steht die REWE digital zum Thema Vielfalt?
+Answer: 
+REWE digital setzt sich aktiv für Vielfalt ein, basierend auf fünf Säulen: Geschlecht & geschlechtliche Identität, Sozio-kulturelle Herkunft, Sexuelle Orientierung, Generation, Körperliche & geistige Fähigkeiten.
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=643768395
+---
+Question (ID: 30): Wo finde ich mehr Informationen zu HR auf Confluence?
+Answer: 
+Ausführliche Informationen zu Human Resources (HR) bei REWE digital sowie eine Übersicht des HR Teams und der Partner findest du auf Confluence.
+Relevant Links:
+- HR bei REWE digital: https://rdp.eil.risnet.de/display/HRRD/HR+-+REWE+digital
+- HR Team Übersicht: https://rdp.eil.risnet.de/pages/viewpage.action?pageId=684880670
+---
+Question (ID: 31): Was ist die Strategie der REWE digital?
+Answer: 
+Detaillierte Informationen über die Strategie von REWE digital, ihre Ziele und Ansätze, findest du auf der entsprechenden Seite auf Confluence.
+Relevant Links:
+- https://rdp.eil.risnet.de/display/AI/Strategie
+---

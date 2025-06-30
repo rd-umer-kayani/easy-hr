@@ -1,0 +1,71 @@
+Source: data base team HR business & relations
+---
+Question (ID: 1): Wo finde ich die aktuellen Stellenausschreibungen?
+Answer: 
+Du kannst dich jederzeit in Primus (SuccessFactors) über die aktuellen, unternehmensweiten internen Stellenausschreibungen informieren.
+Relevant Links:
+- https://performancemanager5.successfactors.eu/sf/careers/jobsearch?bplte_company=rewePROD
+---
+Question (ID: 2): Wo kann ich meine digitale Gehaltsabrechnung abrufen?
+Answer: 
+Deine digitale Gehaltsabrechnung findest du im SAP Web. Nutze dort die Kachel "Lohn- und Gehalt" und anschließend die Kachel "Verdienstnachweis und Bescheinigungen".
+Relevant Links:
+- https://sapp21.eil.risnet.de/irj/portal?saml2idp=https://login.rewe-group.com/auth/realms/global
+---
+Question (ID: 3): Wo finde ich meine Lohnsteuerbescheinigung?
+Answer: 
+Deine Lohnsteuerbescheinigung findest du im SAP Web. Nutze dort die Kachel "Lohn- und Gehalt" und anschließend die Kachel "Verdienstnachweis und Bescheinigungen".
+Relevant Links:
+- https://sapp21.eil.risnet.de/irj/portal?saml2idp=https://login.rewe-group.com/auth/realms/global
+---
+Question (ID: 4): Wer kann mir bei Fragen zu meiner Abrechnung weiterhelfen?
+Answer: 
+Bei Fragen zu deiner Gehaltsabrechnung kannst du dich bei den Kolleg:innen in der Administration und Abrechnung melden. Den Namen deines Ansprechpartners findest du direkt auf deiner Gehaltsabrechnung.
+Relevant Links: [None]
+---
+Question (ID: 5): Ich bin neu und an der betrieblichen Altersvorsorge interessiert. Wie kann ich einen bestehenden Vertrag übernehmen?
+Answer: 
+Die REWE Group unterstützt die betriebliche Altersvorsorge. Wenn du bereits ein Konto bei der Hamburger Pensionskasse hast, kannst du dieses mit der Unternehmensnummer fortführen lassen. Bei allgemeinen Fragen zum Übertrag hilft Frau Monika Stach. Bei Fragen zur Direktversicherung/Lebensversicherung hilft die Kollegin Uta Siebenmorgen.
+Relevant Links: [None]
+---
+Question (ID: 6): Welche Benefits bietet die REWE digital?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
+Question (ID: 7): Wie ist die Urlaubsregelung im Unternehmen?
+Answer: 
+Mitarbeiter:innen mit einer 5-Tage-Woche haben 30 Tage Urlaub. Der Urlaub sollte idealerweise im laufenden Jahr genommen werden. Eine Übertragung ins nächste Jahr ist in betrieblichen Ausnahmefällen nach Absprache mit Führungskraft und HR Partner:in möglich. Übertragener Urlaub muss bis Ende März des Folgejahres abgebaut werden.
+Relevant Links: [None]
+---
+Question (ID: 8): Ist es möglich im Ausland zu arbeiten?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
+Question (ID: 9): Wie kann ich Sonderurlaub beantragen?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
+Question (ID: 10): Wann kann ich ein Sabbatical machen?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
+Question (ID: 11): Wie viel Urlaubsanspruch habe ich noch für dieses Jahr?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
+Question (ID: 12): Wie kann ich Bildungsurlaub beantragen?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
+Question (ID: 13): Ab wann brauche ich eine AU (Arbeitsunfähigkeitsbescheinigung)?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
+Question (ID: 14): Wann steht mir Altersteilzeit zu?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
+Question (ID: 15): Wie kann ich Altersteilzeit beantragen?
+Answer: [No information provided in the source document]
+Relevant Links: [None]
+---
