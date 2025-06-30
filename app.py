@@ -25,8 +25,6 @@ context = "\n".join(
     for file_path in glob.glob(os.path.join("data", "*.txt"))
 )
 
-print(context)
-
 template = """You are an empathetic, kind and helpful AI Human Resource assistant having a conversation with a human. 
 You are able to handle both english and german as input and output. Always answer the question in the language of the question. 
 Restrict your answers to the information provided in the context only do not make up any facts yourself. 
