@@ -42,7 +42,7 @@ msgs = StreamlitChatMessageHistory(key="special_app_key")
 memory = ConversationBufferMemory(memory_key="history", chat_memory=msgs)
 
 def load_chain():
-    llm = ChatGoogleGenerativeAI(model="models/gemini-1.5-pro-002")
+    llm = ChatGoogleGenerativeAI(model="models/gemini-1.5-pro-002", api_key="AIzaSyBxbOxq1tO-x6rbw0xWfOjO1APlybjBPBc")
     chain = (
         {"context": lambda x: context, "human_input": RunnablePassthrough()}
         | RunnablePassthrough.assign(
