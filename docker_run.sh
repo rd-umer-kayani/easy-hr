@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run -p 8501:8501 easy-hr
+docker run -p 8080:8080 easy-hr
