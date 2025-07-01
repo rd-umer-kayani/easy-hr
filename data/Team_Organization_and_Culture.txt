@@ -217,3 +217,36 @@ Detaillierte Informationen über die Strategie von REWE digital, ihre Ziele und 
 Relevant Links:
 - https://rdp.eil.risnet.de/display/AI/Strategie
 ---
+Question (ID: 32): Welche weiteren Lernplattformen gibt es bei REWE digital?
+Answer: Folgende weitere Lernplattformen sind in der REWE Group freigegeben:
+
+- Linkedin Learning
+- DataCamp
+
+Weitere Informationen
+
+Weitere Informationen zu den Lernplattformen LinkedIn Learning und Data Camp im Lernen.Katalog
+
+Google Cloud Skills Boost
+
+Google Cloud Skills Boost steht allen Kolleg:innen in der REWE digital zur Verfügung. Weitere Informationen zu Google Cloud Skills Boost
+
+Bei Fragen wende dich an das Team vom IT-Learning Hub: it-learning-hub@rewe-group.com
+
+Relevant Links:
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?id=%2Fsites%2Ftr%2D0001%2FD1010%2FREWE%5FSeminarkatalog%5Ffinal%2Epdf&parent=%2Fsites%2Ftr%2D0001%2FD1010
+- https://rdp.eil.risnet.de/display/GCP/GCP+Learning%2C+Training+Courses+and+Certifications#GCPLearning,TrainingCoursesandCertifications-GoogleCloudSkillsBoost(GCSB)
+---
+Question (ID: 33): Ich möchte einen Sprachkurs besuchen. Wo finde ich mehr Informationen?
+Answer: Alle Mitarbeitenden der REWE digital haben die Möglichkeit, an den Sprachkursen der REWE Group Handel Deutschland teilzunehmen.
+
+Es finden sowohl Deutsch- als auch Englischkurse statt. Diese finden wahlweise remote oder in Präsenz an einem der REWE Group Standorte in Köln statt.
+Die Sprachkurse werden über die Carl Duisberg Centren durchgeführt und über das Learning Center der REWE Group organisiert.
+Alle Informationen zu den Sprachkursen, Preisen und dem Buchungsprozess findest du hier im REWE Group Inside. Selbstverständlich sind beruflich relevante Sprachkurse in der
+REWE digital Arbeitszeit.
+
+Vor Buchung eines Kurses sollte jede interessierte Person einen Einstufungstest machen, damit deutlich wird, welches Kursniveau zu wem passt.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt7c8f61d22ad347ab
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?id=%2Fsites%2Ftr%2D0001%2FD1010%2FCDC%20Customer%20Portal%5FREWE%5FRegistrierung%5FEinstufung%2Epdf&parent=%2Fsites%2Ftr%2D0001%2FD1010
+---

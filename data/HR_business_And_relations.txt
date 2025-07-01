@@ -32,9 +32,11 @@ Question (ID: 6): Welche Benefits bietet die REWE digital?
 Answer: [No information provided in the source document]
 Relevant Links: [None]
 ---
-Question (ID: 7): Wie ist die Urlaubsregelung im Unternehmen?
+Question (ID: 7): Wie ist die Urlaubsregelung im Unternehmen? Bis wann muss ich meinen Urlaub genommen haben? Kann ich den Urlaub auch ins nächste Jahr mitnehmen?
 Answer: 
-Mitarbeiter:innen mit einer 5-Tage-Woche haben 30 Tage Urlaub. Der Urlaub sollte idealerweise im laufenden Jahr genommen werden. Eine Übertragung ins nächste Jahr ist in betrieblichen Ausnahmefällen nach Absprache mit Führungskraft und HR Partner:in möglich. Übertragener Urlaub muss bis Ende März des Folgejahres abgebaut werden.
+Die Mitarbeiter:innen innerhalb der REWE Group haben 30 Tage Urlaub, wenn diese 5 Tage / Woche arbeiten. Arbeitet ein/e Kolleg:in weniger als 3 Tage / Woche, berechnet sich der Urlaub entsprechend anteilig.
+Der Jahresurlaub sollte idealerweise innerhalb des Jahres abgebaut werden, um die Erholung sicherzustellen.
+In betrieblichen Ausnahmefällen, in denen der Urlaub von dem/der Mitarbeiter:in nicht genommen werden kann, ist es möglich Urlaubstage ins nächste Jahr zu übertragen. Dies gilt es jedoch mit der eigenen Führungskraft und mit dem/der HR Partner:in des Bereiches zu besprechen und zu entscheiden. Bei einem Übertrag ist dieser Urlaub bis zum Monat März abzubauen.
 Relevant Links: [None]
 ---
 Question (ID: 8): Ist es möglich im Ausland zu arbeiten?
@@ -46,8 +48,13 @@ Answer: [No information provided in the source document]
 Relevant Links: [None]
 ---
 Question (ID: 10): Wann kann ich ein Sabbatical machen?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
+Answer:
+- Wenn dein Arbeitsverhältnis seit mindestens 3 Jahren besteht
+- Das Sabbatical ist mindestens 6 Monate vor dem gewünschten Beginn zu beantragen. In Ausnahmefällen kann diese Antragsfrist einvernehmlich verkürzt werden
+- Die Auszeit S kann nur zum Monatsersten beginnen. Der Arbeitgeber hat dem Mitarbeiter innerhalb von 4 Wochen schriftlich mitzuteilen, ob dem Antrag entsprochen wird oder nicht
+- Anspar- und Freistellungsphase können insgesamt maximal 12 Monate betragen. Die Freistellungsphase darf in keinem Fall über 6 Monate hinaus gehen
+Relevant Links:
+BV_Auszeit_S_inkl._Anlage.pdf link: https://intranet.rewe-group.com/cms-proxy/assets/v3/assets/blt22a5676a1ce9aec2/blta759eecf811aa951/639b38069c61684f546fad03/BV_Auszeit_S_inkl._Anlage.pdf
 ---
 Question (ID: 11): Wie viel Urlaubsanspruch habe ich noch für dieses Jahr?
 Answer: [No information provided in the source document]
