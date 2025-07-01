@@ -1,78 +1,289 @@
 Source: data base team HR business & relations
 ---
 Question (ID: 1): Wo finde ich die aktuellen Stellenausschreibungen?
-Answer: 
-Du kannst dich jederzeit in Primus (SuccessFactors) über die aktuellen, unternehmensweiten internen Stellenausschreibungen informieren.
-Relevant Links:
-- https://performancemanager5.successfactors.eu/sf/careers/jobsearch?bplte_company=rewePROD
+Answer: Wenn Du Interesse an einer Veränderung oder Weiterentwicklung innerhalb der REWE Group hast, kannst Du dich jederzeit in Primus über die aktuellen Stellenausschreibungen informieren. Hier findest du Gesellschafts- und Standortübergreifend alle internen Ausschreibungen. SuccessFactors: Interne Jobbörse
+---
 ---
 Question (ID: 2): Wo kann ich meine digitale Gehaltsabrechnung abrufen?
-Answer: 
-Deine digitale Gehaltsabrechnung findest du im SAP Web. Nutze dort die Kachel "Lohn- und Gehalt" und anschließend die Kachel "Verdienstnachweis und Bescheinigungen".
-Relevant Links:
-- https://sapp21.eil.risnet.de/irj/portal?saml2idp=https://login.rewe-group.com/auth/realms/global
+Answer: Deine digitale Gehaltsabrechnung findest du über das SAP Web. Dafür nutzt du die Kachel "Lohn- und Gehalt" und anschließend die Kachel "Verdienstnachweis und Bescheinigungen"Willkommen - SAP WEB
+---
 ---
 Question (ID: 3): Wo finde ich meine Lohnsteuerbescheinigung?
-Answer: 
-Deine Lohnsteuerbescheinigung findest du im SAP Web. Nutze dort die Kachel "Lohn- und Gehalt" und anschließend die Kachel "Verdienstnachweis und Bescheinigungen".
+Answer: Deine Lohnsteuerbescheinigung findest du über das SAP Web. Dafür nutzt du die Kachel "Lohn- und Gehalt" und anschließend die Kachel "Verdienstnachweis und Bescheinigungen"Willkommen - SAP WEB
+---
+---
+Question (ID: 4): Wer kann mir bei Fragen zu meiner Abrechnung weiterhelfen?
+Answer: Wenn Du Fragen zu deiner Gehaltsabrechnung hast, kannst Du dich jederzeit bei den Kolleg:innen in der Administration und Abrechnung melden. Auf deiner Gehaltsabrechnung selbst, findest du direkt am Anfang den/die entsprechende Kolleg:in, die dich betreut.
+---
+---
+Question (ID: 5): Ich bin neu im Unternehmen & an der betrieblichen Altersvorsorge interessiert. Wie kann ich meinen bestehenden Vertrag übernehmen? Wer kann mir weiterhelfen?
+Answer: Die REWE Group bietet, neben verschiedenen Benefits, auch die betriebliche Altersvorsorge an. Seit dem 01.05.2025 wird diese pro Monat mit 23,29€ oder pro Jahr 279,48€ vom Arbeitgeber unterstützt. Wenn Du bereits ein Konto bei der Hamburger Pensionskasse hast, gibst Du bitte deine Bestandnummer auf dem Antragsformular an und leitest diesen an deine/n Ansprechpartner:in in der Administration & Abrechnung. Das Konto kann dann mit unserer Unternehmensnummer fortgeführt werden. Bei allgemeinen Fragen zum Übertrag von einer anderen Vorsorgekasse, kann Dir Frau Monika Stach weiterhelfen. Wir empfehlen Dir in solchen Fällen einen Termin mit ihr zu vereinbaren, um alle Details und Fragen zu klären. Bei Fragen zu Direktversicherung/Lebensversicherung kann Dir die Kollegin Uta Siebenmorgen weiterhelfen.
+---
+---
+Question (ID: 6*): Welche Benefits bietet die REWE digital?
+Answer: Hier gibt es mehrere Angebote. Mitarbeitenden-Angebote: Allen REWE Group-Mitarbeitenden steht ein umfangreiches Angebot mit vielfältigen Preisnachlässen zur Verfügung Vielfältig wechselnde Angebote aus Bereichen wie Technik, Mode, Unterhaltung oder Sport Diese Angebote sollen vertraulich behandelt und nicht außerhalb des Unternehmens kommuniziert werden Mitarbeitenden-Rabatte 5 % Sofortrabatt auf alle Lebensmittel-, Drogerie- und Non Food-Artikel in allen PENNY-Märkten 5 % Sofortrabatt auf alle Lebensmittel-, Drogerie- und Non Food-Artikel in allen PENNY-Märkten 4 % Rabatt auf Buchungen der eigenen Veranstalter (z. B. DERTOUR, Meiers Weltreisen, ITS, Aldiana) in allen DERTOUR Reisebüros 4 % Rabatt auf den Verkaufspreis, gültig in allen toom Baumarkt-Filialen
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt8cb5a0f1cd12aeb4
+- https://rewe-group.mitarbeiterangebote.de/registration
+- https://rewe-group.vorteile.net/de/register
+---
+---
+Question (ID: 7): Wie ist die Urlaubsregelung im Unternehmen? Bis wann muss ich meinen Urlaub genommen haben? Kann ich den Urlaub auch ins nächste Jahr mitnehmen?
+Answer: Die Mitarbeiter:innen innerhalb der REWE Group haben 30 Tage Urlaub, wenn diese 5 Tage / Woche arbeiten. Arbeitet ein/e Kolleg:in weniger als 3 Tage / Woche, berechnet sich der Urlaub entsprechend anteilig. Der Jahresurlaub sollte idealerweise innerhalb des Jahres abgebaut werden, um die Erholung sicherzustellen. In betrieblichen Ausnahmefällen, in denen der Urlaub von dem/der Mitarbeiter:in nicht genommen werden kann, ist es möglich Urlaubstage ins nächste Jahr zu übertragen. Dies gilt es jedoch mit der eigenen Führungskraft und mit dem/der HR Partner:in des Bereiches zu besprechen und zu entscheiden. Bei einem Übertrag ist dieser Urlaub bis zum Monat März abzubauen.
+---
+---
+Question (ID: 8*): Ist es möglich im Ausland zu arbeiten?
+Answer: Aktuell gibt es hierzu noch eine Entscheidung. Updates werden im All hands Technology geteilt. Also sei immer dabei, damit du auf dem neuesten Stand bleibst!
+---
+---
+Question (ID: 9*): Wie kann ich Sonderurlaub beantragen?
+Answer: Bitte fülle das verlinkte Formular aus und lege es deiner Führungskraft vor Bitte sende das Formular sowie den entsprechenden Nachweis an deine zuständige Ansprechperson der Payroll Der Nachweis für das entsprechende Ereignis ist zum Beispiel eine Ummeldebestätigung, Eheurkunde, Geburtsurkunde oder Sterbeurkunde Bei einer Abwesenheit durch Arbeitsunfähigkeit, Kur, Urlaub oder anderen Gründen, ist die Abwesenheit kein Sonderurlaub.risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?FilterField1=Dokumenttyp&FilterValue1=Publikation&FilterType1=Lookup&FilterDisplay1=Publikation&id=%2Fsites%2Ftr-0001%2FD1010%2FSonderurlaub_Formular.pdf&viewid=7e700ee5-6f0a-4250-8afa-d9c90b7fc2e5&parent=%2Fsites%2Ftr-0001%2FD1010
+Relevant Links:
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?FilterField1=Dokumenttyp&FilterValue1=Publikation&FilterType1=Lookup&FilterDisplay1=Publikation&id=%2Fsites%2Ftr-0001%2FD1010%2FSonderurlaub_Formular%2Epdf&viewid=7e700ee5-6f0a-4250-8afa-d9c90b7fc2e5&parent=%2Fsites%2Ftr-0001%2FD1010
+---
+---
+Question (ID: 10): Wann kann ich ein Sabbatical machen?*
+Answer: Wenn dein Arbeitsverhältnis seit mindestens 3 Jahren besteht Das Sabbatical ist mindestens 6 Monate vor dem gewünschten Beginn zu beantragen. In Ausnahmefällen kann diese Antragsfrist einvernehmlich verkürzt werden Die Auszeit S kann nur zum Monatsersten beginnen. Der Arbeitgeber hat dem Mitarbeitenden innerhalb von 4 Wochen schriftlich mitzuteilen, ob dem Antrag entsprochen wird oder nicht Anspar- und Freistellungsphase können insgesamt maximal 12 Monate betragen. Die Freistellungsphase darf in keinem Fall über 6 Monate hinaus gehen BV_Auszeit_S_inkl._Anlage.pdf
+---
+---
+Question (ID: 11*): Wie viel Urlaubsanspruch habe ich noch für dieses Jahr?
+Answer: Du kannst auf deiner Abrechnung deinen Resturlaub ansehen Deine digitale Abrechnung findest du an dem folgenden Ort: Gehe in SAP Web und wähle “Lohn & Gehalt” Du kannst deinen Resturlaub auch in SAP Web einsehen Wähle die Kachel “Abwesenheit beantragen” aus Wenn du die Abwesenheitsart “Urlaub” ausgewählt hast, siehst du deinen verbleibenden Urlaubsanspruch Bitte beachte, dass auch die für die Zukunft beantragten Urlaubstage von dem noch verfügbaren Kontingent abgezogen wurden. Willkommen - SAP WEB
+---
+---
+Question (ID: 12*): Wie kann ich Bildungskrankurlaub beantragen?
+Answer: Du musst mindestens 6 Monate Betriebszugehörigkeit haben Mindestens 6 Wochen vor Beginn der Veranstaltung muss schriftlich ein Antrag bei deinem zuständigen Personalsachbearbeiter/-in gestellt werden In dem Antrag müssen folgende Punkte abgedeckt sein: Freistellung nach dem AWbG Zeitraum der Freistellung Folgende Unterlagen sind beizufügen: Nachweis über die Anerkennung der Bildungsveranstaltung, Programm inkl. Zielgruppe, Lernziele sowie Lerninhalte, Zeitlicher Ablauf der Veranstaltung Nach der Veranstaltung muss die Teilnahme an der Arbeitnehmerweiterbildung nachgewiesen werden.
+---
+---
+Question (ID: 13*): Ab wann brauche ich eine AU (Arbeitsunfähigkeitsbescheinigung)?
+Answer: Du benötigst sie ab vierten Tag deiner Abwesenheit. Bitte beachte dabei, dass auch Samstag und Sonntag mitgezählt werden. Ein Beispiel ist: Sollte also an einem Freitag der erste Tag deiner Abwesenheit sein, benötigst du ab dem folgenden Montag eine AU. Ein Hinweis zu der oben genannten Regel ist: Wenn mit dir eine dazu abweichende Regelung getroffen wurde, ist diese selbstverständlich bindend, was die Einreichungsfrist der AU betrifft.
+---
+---
+Question (ID: 14*): Wann steht mir Altersteilzeit zu?
+Answer: Wenn du alle der folgenden Voraussetzungen erfüllst: Wenn du das 55. Lebensjahr vollendet hast, wenn du in einem unbefristeten Beschäftigungsverhältnis stehst und wenn du vor dem Beginn der Altersteilzeit innerhalb des Zeitraumes von fünf Jahren mindestens 1.080 Kalendertage eine versicherungspflichtige Beschäftigung im Sinne des Altersteilzeitgesetzes ausgeübt haben. Außerdem steht dir die Altersteilzeit nur zu, wenn bei dir kein gesetzlicher Rentenanspruch oder Rentenbezug vorliegt.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/bltab09070cafd67188
+---
+---
+Question (ID: 15*): Wie kann ich Altersteilzeit beantragen?
+Answer: Der Antrag muss mindestens 2 Monate vor dem Beginn gestellt werden Mit dem Antrag müssen auch die notwendigen Nachweise des Renteneintrittes eingereicht werden Folgende Informationen müssen mit dem Antrag an die Führungskraft und den / die zuständige/n HR Partner/in gesendet werden: Vorname und Name des Mitarbeiters: Personalnummer: Geburtsdatum: Art des Altersteilzeit-Modells: Laufzeit der Altersteilzeit: Zeitraum der Aktivphase*: Zeitraum der Passivphase*: Renteneintritt: Weiterzahlung der bAV Beiträge: Besonderheiten/Sonstiges: (z.B.: Dienstfahrzeugregelung, wenn abweichend zur MBVV Richtlinie, Prämien etc.) Bitte beachtet bei dem Antrag, dass beide Altersteilzeit-Phasen die gleiche Laufzeit haben müssen. Bitte beachte, dass nur volle Kalendermonate angeben werden können. Bitte beachte, dass das Laufzeitende der Altersteilzeit nahtlos zum Renteneintritt enden muss.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/bltab09070cafd67188
+---
+---
+Question (ID: 16*): Wie beantrage ich das Deutschlandticket?
+Answer: Über diesen Link bekommst du eine Klick-Anleitung wie du das Deutschlandticket beantragen kannst
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt994289c832b12914
+---
+---
+Question (ID: 17*): Wann habe ich Anspruch auf Sonderurlaub?
+Answer: Der Sonderurlaub ist eine Art der Freistellung die in unmittelbarem Zusammenhang mit einem bestimmten Ereignis wie z. B. einer Hochzeit, einem Umzug oder einer Beerdigung gewährt wird. Die Freistellung kann nur in unmittelbarem Zusammenhang mit dem jeweiligen Ereignis erfolgen, eine ersatzweise Freistellung zu einem späteren Zeitpunkt ist nicht möglich. Dabei besteht ein „unmittelbarer Zusammenhang“ nicht zwingend nur an dem Tag des Ereignisses selbst, sondern auch bis zu einer Woche vor bzw. nach dem eigentlichen Ereignis. Grundsätzlich sind Ansprüche auf Freistellung innerhalb von 3 Monaten nach dem Ereignis geltend zu machen. Weitere Informationen rund um Sonderurlaub findest du über den folgenden Link.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/bltc5ef1fd641229968
+---
+---
+Question (ID: 18*): Wie viele Tage Sonderurlaub stehen mir zu?
+Answer: Bei deiner eigenen Hochzeit bekommst du 2 Tage Sonderurlaub. Bei der Geburt deines Kindes bekommst du 2 Tage Sonderurlaub Bei der Eheschließung deiner Eltern, Kinder oder Geschwister bekommst du 1 Tag Sonderurlaub. Bei deiner eigenen Silberhochzeit bekommst du 1 Tag Sonderurlaub. Bei der Teilnahme an der goldenen Hochzeit der Eltern, Schwiegereltern und Großeltern bekommst du 1 Tag Sonderurlaub. Beim Tod des Ehepartners oder der Ehepartnerin bekommst du 3 Tage Sonderurlaub. Beim Tod der Eltern bekommst du 2 Tage Sonderurlaub. Beim Tod deines Kindes bekommst du 2 Tage Sonderurlaub. Beim Tod von Geschwistern bekommst du 1 Tag Sonderurlaub. Wenn diese Person mit dir in einer häuslichen Gemeinschaft gelebt hat, stehen dir 2 statt 1 Tage zu. Beim Tod von Großeltern bekommst du 1 Tag Sonderurlaub. Wenn diese Person mit dir in einer häuslichen Gemeinschaft gelebt hat, stehen dir 2 statt 1 Tage zu. Beim Tod von Enkeln bekommst du 1 Tag Sonderurlaub. Wenn diese Person mit dir in einer häuslichen Gemeinschaft gelebt hat, stehen dir 2 statt 1 Tage zu. Beim Tod von Schwiegereltern bekommst du 1 Tag Sonderurlaub. Wenn diese Person mit dir in einer häuslichen Gemeinschaft gelebt hat, stehen dir 2 statt 1 Tage zu. Beim Tod von Stiefeltern bekommst du 1 Tag Sonderurlaub. Wenn diese Person mit dir in einer häuslichen Gemeinschaft gelebt hat, stehen dir 2 statt 1 Tage zu. Bei einem Umzug bekommst du innerhalb eines Kalenderjahres 2 Tage Sonderurlaub. Allerdings nur, wenn dein Arbeitsverhältnis nicht vom Arbeitnehmer gekündigt worden ist
+---
+---
+Question (ID: 19*): Wann darf ich Bildungsurlaub nehmen?
+Answer: Wenn dein Beschäftigungsverhältnis seit mindestens 6 Monaten besteht, hast du einen Anspruch auf 5 Arbeitstage pro Kalenderjahr. Der Anspruch auf Bildungsurlaub verfällt zum Jahresende. Es ist möglich den Anspruch von zwei Jahren zusammenzulegen. Die Übertragung der Freistellungstage in das folgende Jahr kann bis Dezember des laufenden Jahres durch den Arbeitnehmer geltend gemacht werden. Hierfür wird noch keine genaue Angabe der Veranstaltung benötigt. Dafür muss im laufenden Jahr noch eine E-Mail zur Übertragung an deine:n HR Partner:in gesendet werden. 15403 Bildungsurlaube | Infos & Gesetze | Veranstalterverzeichnis | Bildungsurlaub " + new Date().getFullYear() + " für ganz Deutschland
+---
+---
+Question (ID: 20*): Was muss ich tun, wenn ich krank bin?
+Answer: Wenn deine Krankheit keine AU erfordert (weil es weniger als vier Tage waren), reicht es aus, wenn du die Krankheit in SAP Web als “Krankheit ohne Attest” einträgst. Denke außerdem daran, deiner Führungskraft und deinem Team bescheid zu sagen, dass du nicht arbeiten kannst. Außerdem solltest du deine Termine absagen, damit alle Kolleg:innen Bescheid wissen und planen können. Wenn deine Krankheit eine AU erfordert, kümmere dich bitte darum, diese AU zu bekommen. Schreibe bitte außerdem eine Mail an den / die Payroll Verantworliche/n mit der voraussichtlichen Dauer deiner Abwesenheit und informiere außerdem deine Führungskraft. Auch geplante Termine solltest du absagen und Personen, die von deiner Abwesenheit wissen sollten, informieren. Willkommen - SAP WEB
+---
+---
+Question (ID: 21*): Wo finde ich Informationen zur Betrieblichen Altersvorsorge?
+Answer: Du kannst dich an deine:n Abrechner:in wenden. Alternativ kannst du dich auch im Intranet umsehen.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt7f1083a1fee9c175
+---
+---
+Question (ID: 22*): Wo finde ich weitere Informationen zum JobRad?
+Answer: Kooperation mit Jobrad Wunschrad 30% günstiger leasen Der Vertrag läuft 36 Monate Danach kann das Rad für eine Restwert von 17% des Kaufwertes übernommen werden Der Mindestbruttoauftragswert beträgt 749€
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt75fca823cb2ca988
+---
+---
+Question (ID: 23*): Kann ich einer Nebentätigkeit nachgehen?
+Answer: Ja Du kannst einer Nebentätigkeit nachgehen. Es gibt allerding ein paar Dinge zu beachten. Weitere Infos dazu findest du im Intranet.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt78b7e01ec9092732
+---
+---
+Question (ID: 24*): Was muss ich zum Thema Mutterschutz wissen?
+Answer: Die Arbeitszeit darf 8,5 Stunden täglich oder 90 Stunden in der Doppelwoche nicht überschreiten. Die Arbeitszeit darf die vertraglich vereinbarte wöchentliche Arbeitszeit im Durchschnitt des Monats nicht übersteigen. Es besteht grundsätzlich ein Verbot von Mehrarbeit, Sonn- und Feiertagsarbeit sowie Nachtarbeit zwischen 20.00 Uhr und 6.00 Uhr. Ausnahmen für eine Beschäftigung zwischen 20.00 Uhr und 22. Uhr sind über ein behördliches Genehmigungsverfahren und an Sonn- und Feiertagen mit Einwilligung der Betroffenen möglich. Schutzfristen: 6 Wochen vor der Geburt 8 Wochen nach der Geburt (Beschäftigungsverbot / 12 Wochen bei Früh- und Mehrlingsgeburten sowie bei Feststellung einer Behinderung des Kindes.)
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/bltc2688ca089359402
+---
+---
+Question (ID: 25*): Muss ich Mutterschutz beantragen?
+Answer: Nein, der Mutterschutz muss nicht "beantragt" werden im Sinne eines Antrags beim Arbeitgeber, der genehmigt werden muss. Er ist gesetzlich geregelt und beginnt automatisch mit der Schwangerschaft. Es gibt jedoch eine Mitteilungspflicht gegenüber dem Arbeitgeber. Die schwangere Arbeitnehmerin sollte ihren Arbeitgeber so früh wie möglich über ihre Schwangerschaft informieren, sobald ihr der Zustand bekannt ist. Das dient dazu, dass der Arbeitgeber entsprechende Schutzmaßnahmen einleiten kann. Daher informiere bitte deine Führungskraft, deinen HR Partner und HR Payroll. Die Ansprechpersonen findest du in Confluence.
+---
+---
+Question (ID: 26*): Was muss ich bei Elternzeit beachten?
+Answer: Anspruch: Der Anspruch besteht bis zur Vollendung des dritten Lebensjahres des Kindes. Ein Anteil von bis zu 24 Monaten kann zwischen dem dritten Geburtstag und dem vollendeten achten Lebensjahr des Kindes in Anspruch genommen werden. Anzeige: schriftlich - 7 Wochen vor Antrittswunsch der Elternzeit bis zum dritten vollendeten Lebensjahr des Kindes und 13 Wochen vor Antrittswunsch der Elternzeit zwischen dem dritten Geburtstag und dem achten vollendeten Lebensjahr des Kindes.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/bltd4e283498ccea307
+---
+---
+Question (ID: 27*): Kann ich während der Elternzeit in Teilzeit arbeiten?
+Answer: Teilzeit in der ETZ: Antrag schriftlich - 7 bzw. 13 Wochen vor Antrittswunsch Antrag auf Elternteilzeit 7 Wochen vor Beginn der Elternteilzeit für Elternteilzeit bis zum vollendeten dritten Lebensjahr des Kindes und 13 Wochen vor Beginn für Elternteilzeit zwischen dem dritten Geburtstag und dem vollendeten achten Lebensjahr des Kindes. Um Neuigkeiten und Informationen aus Ihrem Bereich und der Group zu erhalten und Ihre Rückkehr rechtzeitig und optimal gestalten zu können, bleiben Sie mithilfe unseres Kontakthalteprogramms Stay in touch während Ihrer Abwesenheit mit Ihrem Bereich in Verbindung. Stimmen Sie mit Ihrer Führungskraft gemeinsam Art und Umfang des Kontakthaltens während Mutterschutz und Elternzeit ab.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/bltd4e283498ccea307
+---
+---
+Question (ID: 28*): Wie gehts es nach der Elternzeit weiter?
+Answer: Früher oder später endet die familienbedingte berufliche Auszeit. Eltern kehren in den Beruf zurück. Genau wie die Elternzeit sollte diese Phase gut geplant werden. Planen Sie so früh wie möglich mit Ihrem Vorgesetzten gemeinsam Ihre Rückkehr im Rahmen Ihrer Kontaktgespräche. Bedenken Sie dabei auch ggf. notwendige/ hilfreiche Weiterbildungsmaßnahmen. Weitere Infos gibt es im Intranet.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt2e3b395cfa4a0a14
+---
+---
+Question (ID: 29*): Kann ich ein Deutschlandticket nutzen?
+Answer: Die Group bezuschusst das Ticket mit mindestens 25% Das Deutschlandticket als Jobticket ist deutschlandweit gültig im Nahverkehr, also in Bus, Tram, S-Bahn, U-Bahn und Regionalbahn (IRE, RE,RB)
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt9aa962c350394af9
+---
+---
+Question (ID: 30*): Wo finde ich unsere Betriebsvereinbarungen?
+Answer: Die Betriebsvereinbarungen sind zugänglich und im Intranet nachzulesen.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/bltfb9274c5e21f5c8e
+---
+---
+Question (ID: 31*): Wie beantrage ich Urlaub/Abwesenheit? Was muss ich dabei beachten?
+Answer: Bitte melde dich dazu über das Intranet im SAP Web an und beantrage deine Abwesenheit unter der Kachel: “Abwesenheit beantragen” Hier findet du auch den direkten Link zu SAP Web
 Relevant Links:
 - https://sapp21.eil.risnet.de/irj/portal?saml2idp=https://login.rewe-group.com/auth/realms/global
 ---
-Question (ID: 4): Wer kann mir bei Fragen zu meiner Abrechnung weiterhelfen?
-Answer: 
-Bei Fragen zu deiner Gehaltsabrechnung kannst du dich bei den Kolleg:innen in der Administration und Abrechnung melden. Den Namen deines Ansprechpartners findest du direkt auf deiner Gehaltsabrechnung.
-Relevant Links: [None]
 ---
-Question (ID: 5): Ich bin neu und an der betrieblichen Altersvorsorge interessiert. Wie kann ich einen bestehenden Vertrag übernehmen?
-Answer: 
-Die REWE Group unterstützt die betriebliche Altersvorsorge. Wenn du bereits ein Konto bei der Hamburger Pensionskasse hast, kannst du dieses mit der Unternehmensnummer fortführen lassen. Bei allgemeinen Fragen zum Übertrag hilft Frau Monika Stach. Bei Fragen zur Direktversicherung/Lebensversicherung hilft die Kollegin Uta Siebenmorgen.
-Relevant Links: [None]
----
-Question (ID: 6): Welche Benefits bietet die REWE digital?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
----
-Question (ID: 7): Wie ist die Urlaubsregelung im Unternehmen? Bis wann muss ich meinen Urlaub genommen haben? Kann ich den Urlaub auch ins nächste Jahr mitnehmen?
-Answer: 
-Die Mitarbeiter:innen innerhalb der REWE Group haben 30 Tage Urlaub, wenn diese 5 Tage / Woche arbeiten. Arbeitet ein/e Kolleg:in weniger als 3 Tage / Woche, berechnet sich der Urlaub entsprechend anteilig.
-Der Jahresurlaub sollte idealerweise innerhalb des Jahres abgebaut werden, um die Erholung sicherzustellen.
-In betrieblichen Ausnahmefällen, in denen der Urlaub von dem/der Mitarbeiter:in nicht genommen werden kann, ist es möglich Urlaubstage ins nächste Jahr zu übertragen. Dies gilt es jedoch mit der eigenen Führungskraft und mit dem/der HR Partner:in des Bereiches zu besprechen und zu entscheiden. Bei einem Übertrag ist dieser Urlaub bis zum Monat März abzubauen.
-Relevant Links: [None]
----
-Question (ID: 8): Ist es möglich im Ausland zu arbeiten?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
----
-Question (ID: 9): Wie kann ich Sonderurlaub beantragen?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
----
-Question (ID: 10): Wann kann ich ein Sabbatical machen?
-Answer:
-- Wenn dein Arbeitsverhältnis seit mindestens 3 Jahren besteht
-- Das Sabbatical ist mindestens 6 Monate vor dem gewünschten Beginn zu beantragen. In Ausnahmefällen kann diese Antragsfrist einvernehmlich verkürzt werden
-- Die Auszeit S kann nur zum Monatsersten beginnen. Der Arbeitgeber hat dem Mitarbeiter innerhalb von 4 Wochen schriftlich mitzuteilen, ob dem Antrag entsprochen wird oder nicht
-- Anspar- und Freistellungsphase können insgesamt maximal 12 Monate betragen. Die Freistellungsphase darf in keinem Fall über 6 Monate hinaus gehen
+Question (ID: 32*): Wo finde ich Informationen zu Communities of Practice/CoP?
+Answer: Im IT Learning HUB findest Du eine Liste zu den aktiven Communities of Practices. Ziel dieser Communities ist es, Zusammenarbeit, Wissensaustausch und kreative Problemlösungen zu fördern.. Zu diesem Zweck finden regelmäßig Termine statt. Welche es gibt und wen Du ansprechen für eine bestimmte CoP, erfährst Du hier.
 Relevant Links:
-BV_Auszeit_S_inkl._Anlage.pdf link: https://intranet.rewe-group.com/cms-proxy/assets/v3/assets/blt22a5676a1ce9aec2/blta759eecf811aa951/639b38069c61684f546fad03/BV_Auszeit_S_inkl._Anlage.pdf
+- https://rewe-digital.lxp-haufe.de/auth/assert?code=a7b38c11-6b0d-40b2-9859-6b5e67aab9cc
 ---
-Question (ID: 11): Wie viel Urlaubsanspruch habe ich noch für dieses Jahr?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
 ---
-Question (ID: 12): Wie kann ich Bildungsurlaub beantragen?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
+Question (ID: 33*): Wann wird Mehrarbeit ausgezahlt?
+Answer: Nach 26 Wochen wird nicht abgebaute Mehrarbeit automatisch ausbezahlt. Es ist nicht gestattet, den Abbau von Mehrarbeitszeitguthaben mit einem halben Urlaubstag zu verbinden.
 ---
-Question (ID: 13): Ab wann brauche ich eine AU (Arbeitsunfähigkeitsbescheinigung)?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
 ---
-Question (ID: 14): Wann steht mir Altersteilzeit zu?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
+Question (ID: 34*): Wie funktioniert die Vergütung von Mehrarbeit?
+Answer: Mitarbeitende unterhalb der LE4 erhalten die angeordnete Mehrarbeit entsprechend 5 4 Ziff. 2 und 3 des (Mantel-)Tarifvertrages Außen- und Großhandel NRW (Vergütung mit Zuschlägen; Freizeitausgleich) vergütet. Mitarbeitende der LE4 und der LE3 haben bei angeordneter Mehrarbeit keinen Anspruch auf eine dafür anfallende gesonderte Vergütung.
 ---
-Question (ID: 15): Wie kann ich Altersteilzeit beantragen?
-Answer: [No information provided in the source document]
-Relevant Links: [None]
+---
+Question (ID: 35*): Ist Dienstreise Arbeitszeit?
+Answer: Bitte wende dich direkt an deine:n HR Partner:in, dies kann ich als Chatbot leider nicht beantworten.
+---
+---
+Question (ID: 36*): Ab wann kann ich Mehrarbeit beantragen und was ist das überhaupt?
+Answer: Voraussetzung für die Anerkennung von Mehrarbeit ist, dass es sich um angeordnete Arbeit handelt. Die Zustimmung zur Leistung von Mehrarbeit ist grundsätzlich rechtzeitig über das System SAP WEB mit Begründung beim HR-Bereich zu beantragen. Die Bewilligung kann nur mit Einverständnis des regionalen Betriebsrats erfolgen. Der Antrag soll nur gestellt werden, wenn es sich um die Erledigung dringend notwendiger, unaufschiebbarer betrieblicher Erfordernisse handelt.
+---
+---
+Question (ID: 37*): Dienstwagen
+Answer: Bitte wende dich direkt an deine:n HR Partner:in, dies kann ich als Chatbot leider nicht beantworten. Allgemeine Informationen findest du hier:
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt45dd94243694b37e
+---
+---
+Question (ID: 38*): Was ist meine Kostenstelle?
+Answer: Deine Kostenstelle findest du in Primus in deinem Mitarbeitendenprofil
+---
+---
+Question (ID: 39*): Wo finde ich weitere Informationen zur Bildschirmarbeitsbrille?
+Answer: BV_Bildschirmarbeitsplatzbrille.pdf
+---
+---
+Question (ID: 40*): Kann ich meine Stunden reduzieren, um eine bessere Work-Life-Balance zu haben?
+Answer: Du hast die Möglichkeit, deine Arbeitszeit zu reduzieren und dazu 2 Alternativen Alternative 1: Eine dauerhafte Reduktion der Arbeitszeit, die bedeutet, dass du keinen gesetzlichen Anspruch darauf hast, sie wieder zu erhöhen. Alternative 2: Brückenteilzeit für einen definierten Zeitraum, nach welchem die Arbeitszeit wieder auf die vorherige Stundenanzahl angehoben wird. Brückenteilzeit : REWE Group inside
+---
+---
+Question (ID: 41*): Gibt es eine Kooperation mit Urban Sports?
+Answer: Leider gibt es aktuell keine Kooperation mir Urban Sports
+---
+---
+Question (ID: 42*): Ich möchte unbezahlten Urlaub nehmen, was muss ich beachten?
+Answer: Bitte sprich mit deiner Führungskraft. Über den zuständigen / die zuständige HR-Partner:in könnt ihr dann bis zu 5 Arbeitstage innerhalb eines Kalenderjahres beantragen. Diese Regelung gilt nicht für Mitarbeitende in der Probezeit und Auszubildende.
+---
+---
+Question (ID: 43*): Wie gehe ich mit Überstunden um?
+Answer: Im Rahmen der Vertrauensarbeitszeit solltest du sie flexibel an anderen Tagen kompensieren Sollte dies nicht möglich sein, kannst du sie zu einem passenden Zeitpunkt als Freizeitausgleich nehmen. Stimme dich dazu bitte mit deiner Führungskraft ab und beantrage diese als “Abbau Vertrauensarbeitszeit” in SAP Web. Wenn es den Ausgleich von beantragter Mehrarbeit betrifft, bitte beantrage diese als “Abbau Mehrarbeit” als Abwesenheit in SAP WEB. Mehrarbeit, die innerhalb der folgenden 26 Wochen nicht ausgeglichen wurde, wird automatisch ausbezahlt.
+---
+---
+Question (ID: 44*): Wo finde ich das Formular für Sonderurlaub?
+Answer: risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?FilterField1=Dokumenttyp&FilterValue1=Publikation&FilterType1=Lookup&FilterDisplay1=Publikation&id=%2Fsites%2Ftr-0001%2FD1010%2FSonderurlaub_Formular.pdf&viewid=7e700ee5-6f0a-4250-8afa-d9c90b7fc2e5&parent=%2Fsites%2Ftr-0001%2FD1010
+Relevant Links:
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?FilterField1=Dokumenttyp&FilterValue1=Publikation&FilterType1=Lookup&FilterDisplay1=Publikation&id=%2Fsites%2Ftr-0001%2FD1010%2FSonderurlaub_Formular.pdf&viewid=7e700ee5-6f0a-4250-8afa-d9c90b7fc2e5&parent=%2Fsites%2Ftr-0001%2FD1010
+---
+---
+Question (ID: 45*): Ich brauche einen neuen Laptop, wie funktioniert das?
+Answer: Bitte bespreche dies mit deiner Führungskraft und bestelle ihn anschließend über unser Order-Tool. SAP Ariba Buying
+---
+---
+Question (ID: 46*): An wen wende ich mich, wenn ich Probleme mit Mitarbeiter:innen oder Kolleg:innen habe?
+Answer: Bitte wende dich an deine Führungskraft und / oder deine:n HR Partner:in
+---
+---
+Question (ID: 47*): Was mache ich, wenn in SAP mein Urlaubsanspruch falsch hinterlegt ist?
+Answer: Bitte wende dich in diesem Fall an deine zuständige Ansprechperson der Abrechnung. Die zuständige Person findest du auf deiner Gehaltsabrechnung.
+---
+---
+Question (ID: 48*): Wie berechnet sich mein Urlaubsanspruch, wenn ich in Elternzeit gehe?
+Answer: Der Urlaubsanspruch mindert sich anteilig für jeden vollen Monat der Elternzeit. Das bedeutet, dass du pro vollen Monat 2,5 Tage Urlaubsanspruch weniger erwirbst. Beispiel 1: Elternzeit vom 05.06. bis 04.08.: Der Urlaubsanspruch mindert sich nur für Juli, also um 2,5 Tage. Beispiel 2: Elternzeit vom 05.06. bis 04.07.: Der Urlaubsanspruch mindert sich nicht, da keine vollen Monate Elternzeit vorliegen.
+---
+---
+Question (ID: 49*): Wer ist eigentlich mein Chef Chef?
+Answer: Du kannst dir das gesamte Organigramm der REWE Group im REWE Inside anschauen. Oben rechts kannst du dort Namen suchen und kannst darüber deren Führungskraft und oder eigene Mitarbeitende einsehen.
+Relevant Links:
+- https://organigramm.rewe.local/RGR/
+---
+---
+Question (ID: 50*): Wie ist die aktuelle Home Office Regelung?
+Answer: Im Rahmen von "REWE Deine neue Arbeitswelt“ (REWE DNA) wurde ein Orientierungswert von 2 Tagen Homeoffice und 3 Tagen Büro pro Woche erarbeitet und mit dem Gesamtbetriebsrat vereinbart. Damit soll es gelingen, die gewonnene Flexibilität weiter zu fördern und gleichzeitig den Teamspirit zu erhalten. Abweichungen von den 2 Tagen pro Woche sind jedoch grundsätzlich möglich. Die individuelle Ausgestaltung dieser Homeoffice- und Office-Tage erfolgt in Abstimmung zwischen Führungskraft, Mitarbeitenden und Team und wird so aktuell auch bei der REWE digital gelebt.
+---
+---
+Question (ID: 51*): Was ist die Office Sprache?
+Answer: Bei der überwiegenden Mehrheit unserer Mitarbeiter:innen ist Deutsch entweder die Muttersprache oder wird auf exzellentem Niveau beherrscht (mehr als 90%). Einige dieser Mitarbeiter:innen verfügen wiederum nicht über hinreichende Englischkenntnisse. Aus diesem Grund halten wir an Deutsch als primärer Unternehmenssprache fest. Wir setzen jedoch weiterhin verstärkt auf zweisprachige Kommunikation, um sowohl unseren internationalen Kolleg:innen als auch unseren deutschsprachigen Mitarbeitenden gerecht zu werden. Beispiele hierfür sind unser regelmäßig zweisprachig erscheinender interner Newsletter, der Tech Huddle mit Simultandolmetscher:innen sowie die Bereitstellung zentraler Informationen und Dokumente in beiden Sprachen. Darüber hinaus unterstützt uns auch der zunehmende Einsatz von KI-Technologien, sprachliche Barrieren weiter zu reduzieren und die Zusammenarbeit über Sprachgrenzen hinweg zu erleichtern.
+---
+---
+Question (ID: 52*): Kann ich einen Nebenjob/ Nebentätigkeit ausüben?
+Answer: Mitarbeiter/-innen sind verpflichtet, die Ausübung jeglicher vergüteter Nebentätigkeiten bei dem Vorgesetzten anzuzeigen. Um Interessenkonflikte auszuschließen, ist eine Tätigkeit für einen Wettbewerber oder einen anderen Geschäftspartner grundsätzlich nicht gestattet. Nutze zum Anzeigen einer Nebentätigkeit bitte das vorliegende Formular (siehe Link unten). Diesem Formular liegt auch ein Merkblatt mit den wichtigsten Bedingungen, die für eine Zustimmung erfüllt sein müssen, bei. Sende dieses Formular nach der Unterschrift des Vorgesetzten an Ihre Personalsachbearbeiter.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt78b7e01ec9092732
+---
+---
+Question (ID: 53*): Wie bekomme ich ein REWE digital Shirt?
+Answer: Wir haben Shirts auf Lager für Events und Konferenzen o.ä. Oder du kannst in unserem Online-Shop bestellen für private Zwecke. Zum Onboarding bekommst du allerdings auch ein Shirt mit einem Onboarding Paket.
+Relevant Links:
+- https://rdp.eil.risnet.de/display/HRRD/Employer+Branding
+- https://rewedigital.shirtschleuder.de/
+---
+---
+Question (ID: 54*): Könnt ihr zum Beispiel Sportverein, Event, Kindergarten und Co. sponsern?
+Answer: Unter bestimmten Umständen und wenn es zur allgemeinen Strategie und Konzernrichtlinie passt, ist dies möglich. Dies ist immer eine Einzelfallentscheidung. Bitte sprich dazu Felipe Moroder-Bendyk an. Felipe.moroder-bendyk@rewe-group.com
+---
+---
+Question (ID: 55*): Wie kann ich beim Podcast teilnehmen?
+Answer: Melde dich einfach unter podcast@rewe-digital.com und werde teil von Codes und schmerzlos
+---
+---
+Question (ID: 56*): Ich habe eine Frage zu einer Pressemitteilung oder Social Media Beitrag.
+Answer: Je nach Thema gibt es unterschiedliche Ansprechpersonen. Wende dich bitte an kommunikation-digital@rewe-group.com und Felipe Moroder-Bendyk. Entweder erhältst du aus unserer Unternehmenskommunikation oder vom Employer Branding Team eine Antwort.
+---
+---
+Question (ID: 57*): Ich suche Markenunterlagen wie Logos oder Präsentationsvorlagen von REWE digital. Wo finde ich diese
+Answer: Schaue bei unserem Corporate Design vorbei.
+Relevant Links:
+- https://ci-net.rewe-group.com/login?return_url=/rewe-digital
+- https://rdp.eil.risnet.de/display/AI/Corporate+Identity
+---
+---
+Question (ID: 58*): Wer sind meine Ansprechpersonen in HR mit welchen Themen?
+Answer: Bitte schaue auf der Seite in Confluence nach, wer dein/e richtige/r HR Partner/in ist. Recruiting: Das Recruiting Team übernimmt alle Prozesse unter Einbindung der Führungskraft für die jeweils offene Stelle und kümmert sich um die Ausschreibung, den Auswahlprozess sowie um die Besetzung. Payroll: Wenn du wissen möchtest, wer dein Payroll-Verantwortlicher ist, schaue am besten auf deine Gehaltsabrechnung. Der/die Kollege/Kollegin kann dir bezüglich deiner Krankmeldungen, Urlaubsanträgen, Gehaltsabrechnung, Formularen für Sonderurlaub, etc. Helfen HR Partner/in: Deine/n HR Partner/in kannst du für diverse Themen bzgl. deiner persönlichen Entwicklung ansprechen. Die HR Partner arbeiten im Sparring mit den jeweiligen Führungskräften und unterstützen u.a. bei HR Instrumenten wie betrieblichen Regelungen, Steps, Gehaltsüberprüfungsprozess, Leveling, Veränderungsprozessen, etc. Außerdem agiert der HR Partner auch als Vertrauensperson und ist Teil des Leadership-Teams. Daher melde dich gerne mit deinem Anliegen bei uns.
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=684880670
+---
+---
+Question (ID: 59*): Haben wir ein Mitarbeiter-Empfehlungsprogramm?
+Answer: Leider gibt es dazu aktuell keine gültige Betriebsvereinbarung.
 ---

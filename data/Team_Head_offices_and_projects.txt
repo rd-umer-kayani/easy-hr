@@ -1,0 +1,129 @@
+Source: head offices and projects
+---
+Question (ID: 1): Welche HR-Formate gibt es für Mitarbeitende?
+Answer: Informationen zum HR Connect Circle Format Überblick: Erfahre mehr über das Format und die Ziele des HR Connect Circle, wo wir als HR eure Fragen an HR beantworten und Deep Dives zu verschiedenen Themen anbieten Ressourcen: Für detaillierte Informationen zum Inhalt und zur Teilnahme, besuche die Confluence-Seite zu HR Connect Circle.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt1f2d6c1f1ac725ed
+---
+---
+Question (ID: 2): Wie läuft das Onboarding bei REWE digital?
+Answer: Übersicht: Auf dieser Onboarding-Confluence-Seite findest du alle wichtigen Informationen und hilfreiche Links rund ums Onboarding. Schau auch gerne nach, welche Onboarding-Veranstaltungen anstehen. Anmeldung: Melde dich eigenständig zu Onboarding-Veranstaltungen an, indem du mehr Informationen zu Onboarding-Veranstaltungen besuchst. Einladungen: Du erhältst die Einladung zur Startveranstaltung (in der Regel am ersten Werktag eines Monats) und zur "Meet Christoph" Onboarding-Veranstaltungen vom Onboarding-Team. Für alle weiteren Veranstaltungen musst du dich eigenständig registrieren. Präsentationspool: Zu allen Präsentationen aus dem Onboarding Zutritt und Zugänge: Deine E-Mail Adresse, A-User und Hardware/Softwarezugänge erhältst du von deiner Führungskraft: Informationen zur A-User Beantragung für Führungskräfte. Auch der Zugangschip wird von deiner Führungskraft beantragt und ist im Empfang des jeweiligen Standortes abzuholen. Diesen kannst du zum Drucken, zum Betreten der Gebäude und Parkhäuser, sowie zum Bezahlen in der Kantine benutzen. Der Chip muss einmalig in der Kantine aktiviert werden. Die entstandenen Kosten in der Kantine werden automatisch von deinem Gehalt abgezogen. Anträge zur Zutrittssicherheit stehen auf REWE inside zur Verfügung. Alle Anfragen zur Zutrittssicherheit bitte an das zentrale Postfach Zutrittssicherheit-koeln@rewe-group.com richten. Für weitere Informationen zu Organisation & Strukturen. Entdecke die Corporate Identity. Für Details zu allen Standorten der REWE digital. Informationen zu Abkürzungen in unserem Tech-Wiki für Abkürzungen bei REWE digital. Die Orange hilft dir bei Problemen bzw. gibt dir Hilfestellung bei Fragen. REWE Group Inside bietet viele nützliche Informationen zur REWE Group, einschließlich SAP Web für Urlaubsanträge, Gehaltsabrechnungen und Dienstreisen, sowie Primus für Weiterbildungsangebote und Entwicklungsgespräche. Kontakt: Bei Fragen kannst du dich jederzeit an deine Führungskraft und Team wenden. Zu spezifischen Fragen zum Onboarding-Prozess kontaktiere das Onboarding Team unter onboarding-digital@rewe-group.com.
+Relevant Links:
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?id=%2Fsites%2Ftr-0001%2FD1010%2FREWE_Sonderurlaub_Formular.pdf&viewid=7e700ee5-6f0a-4250-8afa-d9c90b7fc2e5&parent=%2Fsites%2Ftr-0001%2FD1010
+- https://rdp.eil.risnet.de/display/AI/Onboarding
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=684880670
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=602497677
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=611593574
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=613303685
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=613303688
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=613695277
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=668603672
+- https://risnet.sharepoint.com/sites/tr-0001/D1010/Forms/Standardansicht.aspx?id=%2Fsites%2Ftr-0001%2FD1010%2FCDC%20Customer%20Portal%5FREWE%5FRegistrierung%5FEinstufung%2Epdf&parent=%2Fsites%2Ftr-0001%2FD1010
+---
+---
+Question (ID: 3): Welche Onboarding-Veranstaltungen gibt es bei REWE digital und wie kann ich mich anmelden?
+Answer: Übersicht: Auf dieser Onboarding-Confluence-Seite findest du alle wichtigen Informationen und hilfreiche Links rund ums Onboarding. Schau auch gerne nach, welche Onboarding-Veranstaltungen anstehen. Anmeldung: Melde dich eigenständig zu Onboarding-Veranstaltungen an, indem du mehr Informationen zu Onboarding-Veranstaltungen besuchst. Einladungen: Du erhältst die Einladung zur Startveranstaltung (in der Regel am ersten Werktag eines Monats) und zu der "Meet Christoph" Onboarding-Veranstaltungen vom Onboarding-Team. Für alle weiteren Veranstaltungen musst du dich eigenständig registrieren.
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=668603672
+- https://rdp.eil.risnet.de/display/AI/Onboarding
+---
+---
+Question (ID: 4): Ich möchte einen Lunchit Zugang beantragen. Wie geht das?
+Answer: Lunchit App Nutzung für bezuschusstes Mittagessen Standortnutzung: Mitarbeitende der Technologiestandorte Köln, Kiel, Ilmenau und Frankfurt können bei regelmäßiger Nutzung die Lunchit App verwenden, um ein bezuschusstes Mittagessen zu erhalten. Kriterien für Zuschuss: Die Inanspruchnahme des Zuschusses ist nur an Tagen zulässig, an denen der/die Mitarbeiter/in tatsächlich mindestens 4 Stunden an dem Technologiestandort tätig ist. Nutzungsbedingungen: Für detaillierte Informationen und Bedingungen zum Einsatz der Lunchit App besuchen Sie die Lunchit Nutzungsbedingungen.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt1f2d6c1f1ac725ed
+---
+---
+Question (ID: 5): Wie kann ich einen A-User für eine:n neue:n Kolleg:in beantragen?
+Answer: Zutritt und Zugänge: Neustartende erhalten ihre E-Mail Adresse, ihren A-User und Hardware/Softwarezugänge sowie den Zugangschip von ihrer Führungskraft am Starttag. Diese müssen rechtzeitig vorab beantragt werden: Informationen zur A-User Beantragung für Führungskräfte.
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=613303688
+---
+---
+Question (ID: 6): Ich benötige Zutritt und brauche einen Zugangschip, an wen muss ich mich wenden?
+Answer: Zutritt und Zugänge: Neustartende erhalten ihre E-Mail Adresse, ihren A-User und Hardware/Softwarezugänge sowie den Zugangschip von ihrer Führungskraft am Starttag. Der Zugangschip muss rechtzeitig vor dem Starttag beantragt werden ist beim Empfang des jeweiligen Standortes abzuholen. Diesen kannst du zum Drucken, zum Betreten der Gebäude und Parkhäuser, sowie zum Bezahlen in der Kantine benutzen. Der Chip muss einmalig in der Kantine aktiviert werden. Die entstandenen Kosten in der Kantine werden automatisch von deinem Gehalt abgezogen. Anträge zur Zutrittssicherheit stehen auf REWE inside zur Verfügung. Bei Fragen zu den Kölner Standorten steht Postfach zur Verfügung: Zutrittssicherheit-koeln@rewe-group.com
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt8096f991f868c7e9
+---
+---
+Question (ID: 7): Ich möchte meinen Zugangschip für einen anderen Standort freischalten lassen, an wen muss ich mich wenden?
+Answer: Anträge zur Zutrittssicherheit stehen auf REWE inside zur Verfügung. Bei Fragen zu den Kölner Standorten steht Postfach zur Verfügung: Zutrittssicherheit-koeln@rewe-group.com
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt8096f991f868c7e9
+---
+---
+Question (ID: 8): Wo findet die Startveranstaltung statt?
+Answer: Die Startveranstaltung in der Regel in Porz in Präsenz (Raum Freiraum) statt, auch wenn das Team in anderen Standorten, z.B. im Carlswerk in Köln-Mülheim angesiedelt ist. Abweichende Orte werden im Kalender der Startenden vermerkt. Die Startenden werden am Starttag (1. Werktag eines Monats) nach der Startveranstaltung von ihrer Führungskraft abgeholt.
+---
+---
+Question (ID: 9): Wie kann ich mir einen Sitzplatz in den Büroräumen der REWE digital buchen?
+Answer: Standortinformationen: Mehr Informationen zu den Standorten der REWE digital und den unterschiedlichen Standortporträts im In- und Ausland erfährst du hier: Sitzplatzbuchung: Sitzplätze können über Confluence gebucht werden: Meetingraum-Buchung: Meeting-Räume können über booky gebucht werden:
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=597652701
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=612143714
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=634679468
+---
+---
+Question (ID: 10): An welchen Standorten gibt es eine Kantine und wie kann man in der Kantine bezahlen?
+Answer: Nutzung der Kantinen Kantinenverfügbarkeit: An vielen Standorten befinden sich Kantinen, die du nutzen kannst. Zugangschip: Deinen Zugangschip kannst du einmalig an der Kasse freischalten lassen und kannst diesen ab dann benutzen. Gehaltsabrechnung: Dein Mittagessen wird von der REWE Group bezuschusst. Der Betrag wird dann bei deiner Gehaltsabrechnung direkt abgezogen.
+---
+---
+Question (ID: 11): Wie kann ich Meeting-Räume in der REWE digital buchen?
+Answer: Meetingraum-Buchung: Meeting-Räume können über booky gebucht werden:
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=634679468
+---
+---
+Question (ID: 12): Wie erhalte ich die Corporate Identity der REWE digital (Teams-Hintergrund, Folienmaster, Social Media Banner etc.)
+Answer: Design-Vorgaben und Erscheinungsbild der REWE Group Im REWE Group-CI-Net, dem Portal rund um das Erscheinungsbild der REWE Group, finden Sie alle Design-Vorgaben und deren Verwendungsmöglichkeiten in deutscher und englischer Sprache. Für mehr Informationen besuchen Sie bitte:
+Relevant Links:
+- https://ci-net.rewe-group.com/login?return_url=/rewe-digital
+---
+---
+Question (ID: 13): Ich möchte den REWE digital Newsletter erhalten. Wie kann ich mich anmelden?
+Answer: Anmeldung zum REWE digital Newsletter Den Newsletter kannst du über die REWE digital Confluence-Seite beantragen. Für mehr Informationen zur Anmeldung besuche bitte:
+Relevant Links:
+- https://rdp.eil.risnet.de/pages/viewpage.action?pageId=602497677
+---
+---
+Question (ID: 14): Ich möchte beim REWE digital Coffee Date mitmachen? An wen kann ich mich wenden?
+Answer: Bitte wende dich an das Team Organization & Culture. Du erreichst das Team über den Verteiler organization-culture-digital@rewe-group.com.
+---
+---
+Question (ID: 15): Wie komme ich in das Confluence der REWE digital "Home of IT"?
+Answer: Zugang zum Confluence der REWE digital Zugang von Office-Standorten: Um in das Confluence der REWE digital zu gelangen, nutzt man diesen Link: Von allen Office-Standorten gelangt man über das WLAN in das Kollaborationstool "Confluence". Externer Zugang: Sollte man sich von extern (z. aus dem Homeoffice) einwählen, muss man sich in über VPN in Confluence einwählen.
+Relevant Links:
+- https://rdp.eil.risnet.de/
+---
+---
+Question (ID: 16): Wozu gehört der Bereich CSA (Customer, Strategy & Analytics) und welche Bereiche sind hier Angesiedelt?
+Answer: Der Bereich CSA gehört zum Vorstandsressort von Christoph Eltze. Der Vorstandsbereich von Christoph Eltze lautet “Customer, Analytics & Technology” und besteht aus den Bereichen CSA (Customer, Strategy & Analytics) und der REWE digital als IT-Einheit der REWE Group.
+---
+---
+Question (ID: 17): Was bedeutet die Abkürzung CAT (Customer, Analytics & Technology)?
+Answer: Der Vorstandsbereich von Christoph Eltze lautet “Customer, Analytics & Technology” und besteht aus den Bereichen CSA (Customer, Strategy & Analytics) und der REWE digital als Tech-Einheit der REWE Group.
+---
+---
+Question (ID: 18): Meine Hardware funktioniert nicht. Wie kann ich die REWE Group Hotline kontaktieren?
+Answer: Du kannst die REWE Group Hotline unter anderem telefonisch unter +49 221 138898 erreichen. An vielen Standorten steht dir auch ein Field-Support zur Verfügung, bei dem du Ansprechpersonen vor Ort finden kannst.
+---
+---
+Question (ID: 19): Was ist der Tech Tenor?
+Answer: Tech Tenor - Mitarbeitenden-Befragung Beschreibung: Der Tech Tenor ist unsere Mitarbeitenden-Befragung bei der REWE digital. Diese wird regelmäßig versendet und dient als Stimmungsbarometer für unsere Organisation. Informationen und Ergebnisse: Mehr Informationen über den Tech Tenor und die letzten Befragungen findest du auf Confluence.
+Relevant Links:
+- https://rdp.eil.risnet.de/display/AI/Tech+Tenor
+---
+---
+Question (ID: 20): Welche Angebote für Vereinbarkeit von Beruf, Familie und Privatleben gibt es.
+Answer: Vereinbarkeit von Beruf und Familie bei der REWE Group Auszeichnung: Die REWE Group ist seit vielen Jahren mit dem Audit BerufundFamilie ausgezeichnet. Auch die REWE digital ist zertifiziert. Engagement: Sie setzt sich für eine gute Vereinbarkeit von Beruf, Familie und Privatleben ein und bietet unterschiedliche Maßnahmen zur Unterstützung der Mitarbeitenden in ihren unterschiedlichen Lebensphasen. Weitere Informationen: Informationen zu den Angeboten findest du im REWE Group Inside.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt1f2d6c1f1ac725ed
+---
+---
+Question (ID: 21): Ich möchte mehr über die Themen Gesundheit und mentale Gesundheit bei REWE Group und REWE digital erfahren. Welche Angebote gibt es?
+Answer: Gesundheitsangebote bei der REWE digital Angebote: Bei der REWE digital stehen dir zahlreiche Gesundheitsangebote zur Verfügung. Mehr Infos dazu findest du auf REWE Inside. Informationen rund um die Themen "Mentale Gesundheit", "Erste Hilfe und Ersthelferausbildung", "Betriebsärzt:innen", "Vorsorgeuntersuchungen", "Pflege von Angehörigen", "Hilfe und Beratung zum Thema Sucht", "Krebsvorsorge", "Betriebsärztliche Betreuung & Beratung" und mehr findest du auf REWE Group Inside. Onlineportal "Gemeinsam.topfit": Das Onlineportal „Gemeinsam.topfit“ steht im Zentrum des Gesundheitsmanagements der REWE Group. Alle Mitarbeiter erhalten hier orts- und zeitunabhängigen Zugang zu Gesundheitsthemen rund um Prävention, Wohlbefinden, Ernährung und Bewegung. Auch privat kann man von den zahlreichen Ernährungs- oder Entspannungstipps profitieren. Registrierungscode: TopfitCode Mentale Gesundheit: Mehr Infos zur mentalen Gesundheit bei REWE digital findest du auf Confluence:
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/blt1f2d6c1f1ac725ed
+- https://intranet.rewe-group.com/contentpage/bltd6037000d8cc89bc
+- https://rdp.eil.risnet.de/display/HRRD/Gesundheit
+---
