@@ -135,8 +135,8 @@ def initialize_session_state():
 
 initialize_session_state()
 
-st.set_page_config(page_title="Easy HR Assistant for REWE Digital", page_icon=":robot:")
-st.header("Easy HR Assistant for REWE Digital")
+st.set_page_config(page_title="Easy HR – Your assistant for REWE digital", page_icon=":robot:")
+st.header("Easy HR – Your assistant for REWE digital")
 
 
 def submit():
