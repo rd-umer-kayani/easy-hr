@@ -164,8 +164,8 @@ def initialize_session_state():
 
 initialize_session_state()
 
-st.set_page_config(page_title="Easy HR ChatBot", page_icon=":robot:")
-st.header("Easy HR ChatBot")
+st.set_page_config(page_title="Easy HR Assistant for REWE Digital", page_icon=":robot:")
+st.header("Easy HR Assistant for REWE Digital")
 
 
 def submit():
