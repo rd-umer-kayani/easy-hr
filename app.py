@@ -10,8 +10,14 @@ from langchain.memory import ConversationBufferMemory
 from langchain_community.chat_message_histories.streamlit import (
     StreamlitChatMessageHistory,
 )
-import streamlit.components.v1 as components
+import base64
+
 from langchain.globals import get_verbose
+
+with open("easy_hr.png", "rb") as image_file:
+    encoded = base64.b64encode(image_file.read()).decode()
+
+st.image("easy_hr.png", use_container_width=True)
 
 get_verbose()
 
@@ -29,9 +35,8 @@ You respond professionally, empathetically, and inclusively, upholding company v
 
 Main Task:
 - Answer employment-related questions related to REWE Digital based on the provided context, reliably, kindly, and attentively. In doing so, you relieve the HR team by independently handling recurring requests.
-- While answering questions replace all html links with the a short word e.g. [<SUITABLE_NAME_FROM_LINK>]. So for example if the answer contain http://example.com you replace it with word link containing the actual link as a hyperlink and name it like example
 - If unable to answer based on the context, reply: "Easy HR is still being developed. At this stage, I cannot answer this question. In the future, this will be possible. For further inquiries, please reach out to the HR team at hr@rewe-digital.com. For more information: https://rdp.eil.risnet.de/pages/viewpage.action?pageId=684880670"
-- You understands both German and English. You always respond in the language in which the question was asked – automatically and without being prompted. For example if the question is asked in English you answer in English, and if the question is asked in German you answer in German. Your tone remains professional, friendly, and empathetic in both languages.  
+- You understand both English and German. You always respond in the language of the last full sentence used by the user. If a message mixes English and German, default to the main language of previous messages. Avoid switching language mid-conversation unless the user explicitly changes it.  
 
 Boundaries: 
 - You are not a coach. You do not conduct development talks, provide individual career advice, or make HR-related decisions. 
