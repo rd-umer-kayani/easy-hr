@@ -1,0 +1,60 @@
+Source: data base team recruiting & talent acquisition
+---
+Question (ID: 1): Welche Ausbildungsmöglichkeiten gibt es bei der REWE digital?
+Answer: Karrieremöglichkeiten bei REWE digital
+- Ausbildung: REWE digital bietet vielfältige Ausbildungsprogramme an. Weitere Informationen zu den Angeboten findest du hier: Mehr Informationen zu Ausbildung bei REWE digital.
+- Duales Studium: Zusätzlich besteht die Möglichkeit, ein duales Studium bei REWE digital zu absolvieren. Weitere Details findest du hier: Mehr Informationen zu dualem Studium bei REWE digital.
+Relevant Links:
+- https://www.rewe-digital.com/de/karriere/ausbildung
+- Mehr Informationen zu dualem Studium bei REWE digital
+---
+Question (ID: 2): Ich habe Interesse an einer ausgeschriebenen, internen Vakanz. Wie kann ich mich bewerben und wo finde ich interne Stellenausschreibungen?
+Answer: Karrieremöglichkeiten und interne Ausschreibungen
+- Interne Stellenbörse: Für interne Ausschreibungen und Vakanzen kannst du die interne Jobbörse nutzen. Weitere Informationen findest du hier: Mehr Informationen zur SuccessFactors Interne Jobbörse.
+- Kontakt für Rückfragen: Bei konkreten Rückfragen zu Ausschreibungen, Vakanzen etc. kannst du Kontakt aufnehmen über: Kontakt Bewerbermanagement.
+Relevant Links:
+- https://performancemanager5.successfactors.eu/sf/careers/jobsearch?bplte_company=rewePROD&_s.crb=mLc3VlgWBorvoe40NMjpt%252boPR4BNb1DmmE6IbQcear4%253d
+- bewerbermanagement@rewe-group.com
+---
+Question (ID: 3): Wie kann ich mich intern weiterentwickeln?
+Answer: Förderung der beruflichen Weiterentwicklung
+- Interne Jobbörse: Wir fördern interne berufliche Weiterentwicklung durch unsere interne Jobbörse auf SuccessFactors. Weitere Informationen findest du hier: Mehr Informationen zur SuccessFactors Interne Jobbörse.
+- Initiative GO: Zusätzlich bieten wir interne Weiterentwicklungsmöglichkeiten über unseren Talentpool aus der Initiative GO! Group Opportunities. Weitere Details findest du hier: Mehr Informationen zu GO! Group Opportunities.
+Relevant Links:
+- https://performancemanager5.successfactors.eu/sf/careers/jobsearch?bplte_company=rewePROD&_s.crb=mLc3VlgWBorvoe40NMjpt%252boPR4BNb1DmmE6IbQcear4%253d
+- https://intranet.rewe-group.com/contentpage/bltaae2a523dc8d1943
+---
+Question (ID: 4): Gibt es ein Mitarbeiter-werben-Mitarbeiter-Programm?
+Answer: Zum aktuellen Zeitpunkt bieten wir kein Mitarbeitende werben Mitarbeitende-Programm an.
+Relevant Links: [None]
+---
+Question (ID: 5): Wo finde ich spannende Jobangebote?
+Answer: Interne Jobbörse: Wir fördern interne berufliche Weiterentwicklung durch unsere interne Jobbörse auf SuccessFactors. Weitere Informationen findest du hier: Mehr Informationen zur SuccessFactors Interne Jobbörse
+Relevant Links:
+- https://performancemanager5.successfactors.eu/sf/careers/jobsearch?bplte_company=rewePROD&_s.crb=mLc3VlgWBorvoe40NMjpt%252boPR4BNb1DmmE6IbQcear4%253d
+---
+Question (ID: 6): Wie kann ich in den internen Talentpool aufgenommen werden?
+Answer: Initiative GO: Zusätzlich bieten wir interne Weiterentwicklungsmöglichkeiten über unseren Talentpool aus der Initiative GO! Group Opportunities. Weitere Details findest du hier: Mehr Informationen zu GO! Group Opportunities.
+Relevant Links:
+- https://intranet.rewe-group.com/contentpage/bltaae2a523dc8d1943
+---
+Question (ID: 7): Welche Ausbildungsbildungsberufe werden angeboten?
+Answer: Ausbildung: REWE digital bietet vielfältige Ausbildungsprogramme an. Weitere Informationen zu den Angeboten findest du hier: Mehr Informationen zu Ausbildung bei REWE digital
+Relevant Links:
+- https://www.rewe-digital.com/de/karriere/ausbildung
+---
+Question (ID: 8): Gibt es ein duales Studium bei der REWE digital?
+Answer: Duales Studium: Zusätzlich besteht die Möglichkeit, ein duales Studium bei REWE digital zu absolvieren. Weitere Details findest du hier: Mehr Informationen zu dualem Studium bei REWE digital.
+Relevant Links:
+- https://www.rewe-digital.com/de/karriere/duales-studium
+---
+Question (ID: 9): Wie ist der Prozess bei internen Bewerbungen?
+Answer: Das Recruiting Center nimmt nach deiner internen Bewerbung Kontakt mit dir auf und gibt dir eine Rückmeldung zu den nächsten Schritten im Bewerbungsprozess. Wir fördern interner beruflicher Weiterentwicklung. Dein:e zuständige Person aus dem Recruiting Center r steht als Kontaktperson mit Rufnummer in der Stellenausschreibung.
+Bei allen kokreten Rückfragen zu Ausschreibungen, Vakanzen etc. bewerbermanagement@rewe-group.com
+Relevant Links: [None]
+---
+Question (ID: 10): Kann ich bei konkreten Fragestellungen direkt auf Recruiter aufnehmen?
+Answer: Dein:e zuständige Person aus dem Recruiting Center r steht als Kontaktperson mit Rufnummer in der Stellenausschreibung. Geh gerne auf den oder die Recruiter:in für Fragen zu.
+Bei allen kokreten Rückfragen zu Ausschreibungen, Vakanzen etc. bewerbermanagement@rewe-group.com
+Relevant Links: [None]
+---
